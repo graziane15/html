@@ -1,0 +1,21 @@
+*{
+
+
+}                                 
+title{
+    background-color: white;
+}
+header{
+    background-color:rgb(50, 50, 62);
+    display: flex;
+}
+form{
+    display: flex;
+    width:20%;
+    height: 30px;
+    flex-direction: column;
+    color: white;
+}
+p{
+    color: white;
+}
